@@ -1,1 +1,2 @@
-# CMPS253_SPRING_2021_22
+# CMPS 253 Software Engineering
+## Spring 2021-22
